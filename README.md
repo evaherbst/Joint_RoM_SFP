@@ -1,5 +1,7 @@
 # Joint_RoM_SFP
 
+[![DOI](https://zenodo.org/badge/456420486.svg)](https://zenodo.org/badge/latestdoi/456420486)
+
 This repository contains MATLAB code to transform Qualisys motion capture data to joint centered movement, using a custom joint range of motion rig and the SFP method of visualization (Herbst et al. in review).
 
 It contains example code to assign anatomical coordinate system to salamander bones (using the knee as a case study). 
