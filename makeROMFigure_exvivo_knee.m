@@ -50,10 +50,7 @@ sph.srf = surf(1*sph.X,1*sph.Y,1*sph.Z,'FaceColor',[0.9 0.9 0.9],'EdgeColor','k'
 
 
 
-%note: this axis recoloring accounts for the polygon rotation 
-%all rotated by (-pi/2) in ExampleROMScriptRefactored
-%This visual rotation is used for the knee, where you want Y up (at the
-%pole)
+
 
 plot3([0 1], [0 0], [0 0], 'r', 'LineWidth', 2); 
 
